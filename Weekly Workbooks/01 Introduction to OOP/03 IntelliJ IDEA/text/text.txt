@@ -1,0 +1,7 @@
+To support the efficient development of code in this unit, we will be using the IntelliJ Integrated Development Environment (IDE).
+This is installed on the lab machines for your convenience, however you may wish to install it on your own computer.
+Now is a good time to attempt this - before we get too busying understanding the features and concepts of Java.
+Some of the installation steps are platform-specific, so we have provided separate videos for getting started with IntelliJ on
+<a href="https://mediasite.bris.ac.uk/Mediasite/Play/eb4047f525c642de8b4bef98c006c2c21d" target="_blank">Ubuntu</a>, 
+<a href="https://mediasite.bris.ac.uk/Mediasite/Play/da355bec145b4c7fa2940738340a454a1d" target="_blank">Windows</a> and
+<a href="https://mediasite.bris.ac.uk/Mediasite/Play/8822c0d46676424497d55a11ac01f8e21d" target="_blank">Mac OSX</a>.

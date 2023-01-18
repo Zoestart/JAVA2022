@@ -1,0 +1,1 @@
+Note: In the videos we illustrate the installation process with Java 11 - it is probably wise to use the most recent version of Java (version 19).
