@@ -78,6 +78,8 @@ Windows:     mvnw clean compile</code></pre>
 <pre><code>Linux/OSX:   ./mvnw exec:java
 Windows:     mvnw exec:java</code></pre>
 <p>Note that if you run the above command inside this week’s project folder, Maven will run the <code>main</code> method from the <code>Shapes</code> class. Note that if you want to run the main method of <em>another</em> class, you can edit the project’s <code>pom.xml</code> file and change the <code>mainClass</code> to be the desired class.</p>
+<p><strong>Hints &amp; Tips:</strong><br />
+If when attempting to compile your code, you get a warning about version 17 source code, you will probably need to update the <code>POM.xml</code> file in the project folder. Run <code>java -version</code> on the command line to find out which version of Java you have installed on your operating system. The template project was created assuming you have Java version 17 installed on your computer, if your version number differs, update the <code>maven.compiler.source</code> and <code>maven.compiler.target</code> lines of the <code>POM.xml</code> file with your Java version number (then try compiling again !)</p>
 <h1 id="section-6"></h1>
 <h3 id="task-8-final-thoughts">Task 8: Final Thoughts</h3>
 <p>This has been a relatively short and straight-forward workbook. The main was to get you settled in before we start digger deeper into Java and OOP. Make sure you finish all the practical activities in this workbook - you are going to need to be able to use all of the tools and techniques in order to actually build software in Java.</p>
