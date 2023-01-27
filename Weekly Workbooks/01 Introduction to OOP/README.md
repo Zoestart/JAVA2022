@@ -1,5 +1,5 @@
 ## Introduction to OOP
-### <a href='https://web.microsoftstream.com/group/2ab518ed-5a83-4c36-bfef-c8a2bf702e79?view=videos' target='_blank'> Weekly Briefing ![](../../resources/icons/briefing.png) </a>
+### <a href='https://www.ole.bris.ac.uk/webapps/blackboard/content/contentWrapper.jsp?course_id=_252884_1&displayName=Mediasite%20Collections&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchPlacement%3Fblti_placement_id%3D_3169_1%26course_id%3D_252884_1%26mode%3Dcpview%26wrapped%3Dtrue' target='_blank'> Weekly Briefing ![](../../resources/icons/briefing.png) </a>
 ### Task 1: Introduction
  <a href='01%20Introduction/slides/segment-1.pdf' target='_blank'> ![](../../resources/icons/slides.png) </a> <a href='01%20Introduction/video/segment-1.mp4' target='_blank'> ![](../../resources/icons/video.png) </a>
 
@@ -82,7 +82,7 @@ Rather than you having to create a new project each time we start a workbook or 
 we will often provide you with an existing Maven template project (in order to help you get started).
 These templates will contain all of the rules and dependencies required to build a project. One of the main benefits is that these projects can be imported directly into Intellij (or any other IDE for that matter). This will save us a lot of time installing required libraries and setting up the build environment.
 
-For the next couple of workbooks, we will be using the <a href="Intellij Template/" target="_blank">shapes</a> template project.
+For the next couple of workbooks, we will be using the <a href="IntelliJ Template/" target="_blank">shapes</a> template project.
 You should copy the entire `cw-shapes` directory into your work folder (wherever you want to keep your code for this unit). In order to open an existing project in IntelliJ, simply click on the `Open` button on the IntelliJ startup screen (shown below) and pick the `cw-shapes` folder using the file dialog. When you have opened the project once, IntelliJ will remember it and show it in the list of recent projects.  
 
 
