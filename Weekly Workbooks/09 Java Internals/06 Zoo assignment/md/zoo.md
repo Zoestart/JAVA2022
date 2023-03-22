@@ -13,6 +13,7 @@ fixing and when you have arrived at a fully working solution!
 
 You can download the
 skeleton [here](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMSM0086_2022_TB-2/code_snippets/zoo.zip)
+[.](resources/cw-zoo.zip)
 
 You should unzip the contents of that file into a newly prepared local directory and turn that
 directory into a private git repository, accessible by both members of your pair programming team to
@@ -21,7 +22,7 @@ work on.
 **You might not want to use IntelliJ for this project; compile programs directly from the
 terminal<sup>[1](#no-ij)</sup>**.
 
-<a name="no-ij">1</a>: You can use IntelliJ, but you wont get the full JUnit experience! 
+<a name="no-ij">1</a>: You can use IntelliJ, but you wont get the full JUnit experience!
 
 ---
 
@@ -39,8 +40,8 @@ This tells the interpreter to look for the .class file which contains the byteco
 you just downloaded , you should get a friendly message when you run the program:
 
 ```shell
-cd src 
-javac Zoo.java -Xlint:all 
+cd src
+javac Zoo.java -Xlint:all
 java Zoo
 ```
 
