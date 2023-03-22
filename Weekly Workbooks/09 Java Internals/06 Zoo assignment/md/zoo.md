@@ -13,7 +13,7 @@ fixing and when you have arrived at a fully working solution!
 
 You can download the
 skeleton [here](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMSM0086_2022_TB-2/code_snippets/zoo.zip)
-[.](resources/cw-zoo.zip)
+[.](cw-zoo.zip)
 
 You should unzip the contents of that file into a newly prepared local directory and turn that
 directory into a private git repository, accessible by both members of your pair programming team to
